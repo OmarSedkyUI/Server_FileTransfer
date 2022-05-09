@@ -1,0 +1,11 @@
+C:\Users\Omar\Desktop\Server_FileTransfer\Server_FileTransfer\bin\Debug\netcoreapp3.0\Server_FileTransfer.exe
+C:\Users\Omar\Desktop\Server_FileTransfer\Server_FileTransfer\bin\Debug\netcoreapp3.0\Server_FileTransfer.deps.json
+C:\Users\Omar\Desktop\Server_FileTransfer\Server_FileTransfer\bin\Debug\netcoreapp3.0\Server_FileTransfer.runtimeconfig.json
+C:\Users\Omar\Desktop\Server_FileTransfer\Server_FileTransfer\bin\Debug\netcoreapp3.0\Server_FileTransfer.runtimeconfig.dev.json
+C:\Users\Omar\Desktop\Server_FileTransfer\Server_FileTransfer\bin\Debug\netcoreapp3.0\Server_FileTransfer.dll
+C:\Users\Omar\Desktop\Server_FileTransfer\Server_FileTransfer\bin\Debug\netcoreapp3.0\Server_FileTransfer.pdb
+C:\Users\Omar\Desktop\Server_FileTransfer\Server_FileTransfer\obj\Debug\netcoreapp3.0\Server_FileTransfer.csprojAssemblyReference.cache
+C:\Users\Omar\Desktop\Server_FileTransfer\Server_FileTransfer\obj\Debug\netcoreapp3.0\Server_FileTransfer.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\Server_FileTransfer\Server_FileTransfer\obj\Debug\netcoreapp3.0\Server_FileTransfer.AssemblyInfo.cs
+C:\Users\Omar\Desktop\Server_FileTransfer\Server_FileTransfer\obj\Debug\netcoreapp3.0\Server_FileTransfer.dll
+C:\Users\Omar\Desktop\Server_FileTransfer\Server_FileTransfer\obj\Debug\netcoreapp3.0\Server_FileTransfer.pdb
